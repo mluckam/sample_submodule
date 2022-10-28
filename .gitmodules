@@ -1,0 +1,6 @@
+[submodule "sub_module_01"]
+    path = sub_module_01
+    url = https://github.com/mluckam/sample_submodules/sub_module_01_config.git
+[submodule "sub_module_02"]
+    path = sub_module_02
+    url = https://github.com/mluckam/sample_submodules/sub_module_02_config.git
